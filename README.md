@@ -1,2 +1,2 @@
 # helloworld
-learning git repository, nothign special here just yet
+Learning git repository, nothing special here just yet.
